@@ -1,3 +1,1 @@
-echo "Hello world from KCK"
-var="Chandu"
-echo "Hi $var"
+Write-Host "Hello world from KCK"
